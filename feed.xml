@@ -1,0 +1,99 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://saidecsec.github.io/</id>
+  <title>SaeidSec</title>
+  <subtitle>Portfolio, blog, and resources from SaeidSec - a SIEM Engineer, SOC Analyst, and Incident Responder specializing in Wazuh, Microsoft Sentinel, Splunk, and threat hunting.</subtitle>
+  <updated>2026-05-30T10:28:51+06:00</updated>
+  <author>
+    <name>SaeidSec</name>
+    <uri>https://saidecsec.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://saidecsec.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://saidecsec.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 SaeidSec </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Proactive Threat Hunting Fundamentals</title>
+    <link href="https://saidecsec.github.io/posts/threat-hunting-fundamentals/" rel="alternate" type="text/html" title="Proactive Threat Hunting Fundamentals" />
+    <published>2026-05-29T18:00:00+06:00</published>
+  
+    <updated>2026-05-29T18:00:00+06:00</updated>
+  
+    <id>https://saidecsec.github.io/posts/threat-hunting-fundamentals/</id>
+    <content type="text/html" src="https://saidecsec.github.io/posts/threat-hunting-fundamentals/" />
+    <author>
+      <name>SaeidSec</name>
+    </author>
+
+  
+    
+    <category term="Threat Hunting" />
+    
+    <category term="Security Operations" />
+    
+  
+
+  <summary>Proactive Threat Hunting Fundamentals  Threat hunting is the practice of proactively searching for cyber threats that have evaded your automated detection systems. Unlike reactive incident response, threat hunting is hypothesis-driven and intelligence-informed.  The Threat Hunting Pyramid  Level 1: Automated Detection    SIEM rules and alerts   EDR automated responses   Signature-based detectio...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started with Wazuh SIEM Configuration</title>
+    <link href="https://saidecsec.github.io/posts/wazuh-configuration-guide/" rel="alternate" type="text/html" title="Getting Started with Wazuh SIEM Configuration" />
+    <published>2026-05-29T17:00:00+06:00</published>
+  
+    <updated>2026-05-29T17:00:00+06:00</updated>
+  
+    <id>https://saidecsec.github.io/posts/wazuh-configuration-guide/</id>
+    <content type="text/html" src="https://saidecsec.github.io/posts/wazuh-configuration-guide/" />
+    <author>
+      <name>SaeidSec</name>
+    </author>
+
+  
+    
+    <category term="SIEM" />
+    
+    <category term="Wazuh" />
+    
+  
+
+  <summary>Getting Started with Wazuh SIEM Configuration  Wazuh is a free and open-source platform for threat detection, incident response, and compliance. In this guide, we’ll walk through the essential configuration steps to get your Wazuh deployment operational.  Prerequisites     Wazuh Manager and Agent installed   Basic Linux/Windows system administration knowledge   Network connectivity between mana...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcome to SaeidSec</title>
+    <link href="https://saidecsec.github.io/posts/welcome-to-saeidsec/" rel="alternate" type="text/html" title="Welcome to SaeidSec" />
+    <published>2026-05-29T16:00:00+06:00</published>
+  
+    <updated>2026-05-29T16:00:00+06:00</updated>
+  
+    <id>https://saidecsec.github.io/posts/welcome-to-saeidsec/</id>
+    <content type="text/html" src="https://saidecsec.github.io/posts/welcome-to-saeidsec/" />
+    <author>
+      <name>SaeidSec</name>
+    </author>
+
+  
+    
+    <category term="Welcome" />
+    
+  
+
+  <summary>Welcome to SaeidSec  I’m SaeidSec, a SIEM Engineer and SOC Analyst with expertise in security monitoring, incident response, and threat hunting. On this blog, I share insights, techniques, and best practices in cybersecurity.  What You’ll Find Here     SIEM Insights: Deep dives into Wazuh, Microsoft Sentinel, Splunk, ELK Stack, and IBM QRadar   Incident Response: Real-world scenarios and respon...</summary>
+
+  </entry>
+
+</feed>
+
+
