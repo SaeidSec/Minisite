@@ -3,6 +3,9 @@ title: "Step-by-Step Guide: Configuring SSL Certificates on Wazuh Dashboard usin
 date: 2026-06-10 00:02:25 +0600
 categories: [SIEM, Wazuh]
 tags: [wazuh, nginx, ssl, security, let-s-encrypt]
+image:
+  path: /assets/img/posts/wazuh-ssl-nginx-banner.png
+  alt: "Configuring SSL Certificates on Wazuh Dashboard using NGINX"
 ---
 
 # Step-by-Step Guide: Configuring SSL Certificates on Wazuh Dashboard using NGINX
